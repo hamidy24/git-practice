@@ -9,7 +9,7 @@ int main() {
     // Student Information
     // ==========================
 
-    string name = "Mahir Hamidy";
+    string name = "Hamidy Mahir";
     string id = "23-53682-3";
     string section = "M";
 
